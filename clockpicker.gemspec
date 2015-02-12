@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.files         = Dir["{lib,vendor}/**/*"] + ["LICENSE", "LICENSE.clockpicker", "README.md"]
   gem.version       = Clockpicker::Rails::VERSION
 
-  gem.add_dependency 'railties', '~> 3.1'
+  gem.add_dependency 'railties', '>= 3.1'
   gem.add_development_dependency 'bundler', '~> 1.0'
-  gem.add_development_dependency 'rake', '~> 10.0'
+  gem.add_development_dependency 'rake', '>= 10.0'
 end
