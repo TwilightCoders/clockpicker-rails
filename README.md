@@ -1,4 +1,7 @@
-[![Build Status](https://secure.travis-ci.org/TwilightCoders/clockpicker-rails.png)](http://travis-ci.org/TwilightCoders/clockpicker-rails) [![Gem Version](https://badge.fury.io/rb/clockpicker-rails.png)](http://badge.fury.io/rb/clockpicker-rails) [![Code Climate](https://codeclimate.com/github/TwilightCoders/clockpicker-rails.png)](https://codeclimate.com/github/TwilightCoders/clockpicker-rails) [![Dependancies](http://img.shields.io/gemnasium/TwilightCoders/clockpicker-rails.svg)](https://gemnasium.com/TwilightCoders/clockpicker-rails)
+[![Version      ](https://img.shields.io/gem/v/clockpicker-rails.svg?maxAge=2592000)](https://rubygems.org/gems/clockpicker-rails)
+[![Build Status ](https://travis-ci.org/TwilightCoders/clockpicker-rails.svg)](https://travis-ci.org/TwilightCoders/clockpicker-rails)
+[![Code Climate ](https://codeclimate.com/github/TwilightCoders/clockpicker-rails/badges/gpa.svg)](https://codeclimate.com/github/TwilightCoders/clockpicker-rails)
+[![Test Coverage](https://codeclimate.com/github/TwilightCoders/clockpicker-rails/badges/coverage.svg)](https://codeclimate.com/github/TwilightCoders/clockpicker-rails/coverage)
 
 # Clockpicker::Rails
 
